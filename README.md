@@ -1,6 +1,8 @@
 # Surface Survey and Legacy Data in the Upper Plain of the Heraion of Perachora: The Perachora Peninsula Archaeological Project 2020
 *Digital Supplement*
 
+[![DOI](https://zenodo.org/badge/512790849.svg)](https://zenodo.org/badge/latestdoi/512790849)
+
 ## Authors
 * Susan Lupack, Senior Lecturer, Department of History and Archaeology, Macquarie University, Sydney, Australia, susan.lupack@mq.edu.au [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-7935-7613)
 * Shawn A. Ross, Professor, Department of History and Archaeology, Macquarie University, Sydney, Australia, shawn.ross@mq.edu.au [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6492-9025)

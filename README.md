@@ -3,6 +3,10 @@
 
 [![DOI](https://zenodo.org/badge/512790849.svg)](https://zenodo.org/badge/latestdoi/512790849)
 
+
+![Perachora Survey Region](https://github.com/sdam-au/perachora-medit-arch/blob/main/figures/Pl_01_SurveyRegionMap.tiff)
+
+
 ## Authors
 * Susan Lupack, Senior Lecturer, Department of History and Archaeology, Macquarie University, Sydney, Australia, susan.lupack@mq.edu.au [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-7935-7613)
 * Shawn A. Ross, Professor, Department of History and Archaeology, Macquarie University, Sydney, Australia, shawn.ross@mq.edu.au [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6492-9025)

@@ -4,7 +4,7 @@
 [![DOI](https://zenodo.org/badge/512790849.svg)](https://zenodo.org/badge/latestdoi/512790849)
 
 
-![Perachora Survey Region](https://github.com/sdam-au/perachora-medit-arch/blob/main/figures/Pl_01_SurveyRegionMap.tiff)
+![Perachora Survey Region](https://github.com/sdam-au/perachora-medit-arch/blob/main/figures/Pl_01_Info.png)
 
 
 ## Authors
